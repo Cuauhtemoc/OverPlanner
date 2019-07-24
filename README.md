@@ -1,5 +1,3 @@
-# The-B-Team
-
 ![Overplanner Logo](https://github.com/jbarrientos0730/The-B-Team/blob/master/Assets/IMAGES/logo.PNG)
 
 ## What our app does
